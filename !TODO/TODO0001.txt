@@ -1,0 +1,30 @@
+создать для поворачиваемых клеток отдельные ImageList'ы
+
+Кэшировать изображения, для оптимизации.
+
+
+treasure
+cannibal
+citadel
+aboriginal
+airplain
+Carramba
+Lighthouse
+BenGun
+missioner
+Friday
+RumBottle
+Cave
+Earthquake
+Jungle
+ganja
+
+http://gidonline.in/2011/10/pochtalon/
+
+Вернуть Matrix.GetCellClass
+Inition of matrix in constructor Create
+Inition of cells in AfterConstruction
+TJCellMatrix.Create
+  fill opened_map array
+  
+обратить clHilighted взависимости от Unit.Color
